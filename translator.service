@@ -1,0 +1,13 @@
+[Unit]
+Description=Alfa 4 - translator
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python /usr/local/bin/translator/src/main.py
+User=nobody
+WorkingDirectory=/usr/local/bin/translator
+Restart=on-failure
+RestartSecs=5
+
+[Install]
+WantedBy=multi-user.target

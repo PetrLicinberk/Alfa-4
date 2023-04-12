@@ -1,0 +1,10 @@
+[2023-02-20 18:16:49] Server started, ip:192.168.1.240, on port: 65525
+[2023-02-20 18:17:16] Server stoped, ip: 192.168.1.240, port: 65525
+[2023-02-20 18:17:35] Server started, ip:192.168.1.240, on port: 65525
+[2023-02-20 18:19:10] Client: 192.168.1.240, on port: 53683, executed: TRANSLATELOCL"end"
+[2023-02-20 18:19:15] Server stoped, ip: 192.168.1.240, port: 65525
+[2023-02-20 18:40:05] Error: [WinError 10049] Požadovaná adresa není v tomto kontextu platná
+[2023-02-20 18:40:42] Server started, ip:192.168.1.202, on port: 65525
+[2023-02-20 18:41:24] Client: 192.168.1.202, on port: 51807, executed: TRANSLATELOCL"end"
+[2023-02-20 18:41:35] Client: 192.168.1.202, on port: 51816, executed: TRANSLATEPING""
+[2023-02-20 18:41:41] Server stoped, ip: 192.168.1.202, port: 65525
