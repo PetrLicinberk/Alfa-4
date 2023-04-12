@@ -1,6 +1,6 @@
-Projekt: Alfa 3 – Databázový projekt, obchod
+Projekt: Alfa 4 - Sitova aplikace pomocí architektury P2P
 Autor: Petr Licinberk
 Email: licinberk@spsejecna.cz
-Datum vypracování: 3. 2. 2023
+Datum vypracování: 20. 2. 2023
 Škola: Střední průmyslová škola elektrotechnická Ječná
 Jedná se o školní projekt
